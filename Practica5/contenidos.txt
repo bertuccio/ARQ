@@ -1,0 +1,21 @@
+Componentes del equipo 1361-07:
+
+Ari Handler Gamboa
+Adrián Lorenzo Mateo
+
+Contenidos de la entrega:
+
+procesador.vhd
+alu.vhd
+banco.vhd
+memoria_simple.vhd
+HazardUnit.vhd
+ForwardingUnit.vhd
+periferico_io.vhd
+sistema.vhd
+sistema_tb.vhd
+ctr_out.vhd
+ctr_in.vhd
+programa_suma.s
+programa
+datos

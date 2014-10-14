@@ -1,0 +1,9 @@
+Componentes del equipo 1361-07:
+
+Ari Handler Gamboa
+Adrián Lorenzo Mateo
+
+Contenidos de la entrega:
+
+p4a_tb.vhd
+p4a.vhd
